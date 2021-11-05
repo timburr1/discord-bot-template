@@ -4,8 +4,8 @@
 * [**Replit**](https://blog.replit.com/)
 
 ## Other Resources
-* [**Discord.js API Documentation](https://discord.js.org/#/)
-* [**Discord.js Guide](https://discordjs.guide/)
+* [**Discord.js API Documentation**](https://discord.js.org/#/)
+* [**Discord.js Guide**](https://discordjs.guide/)
 
 ## To run:
 
